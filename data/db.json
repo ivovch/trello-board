@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "title": "Column 1"
+    },
+    {
+      "id": 2,
+      "title": "Column 2"
+    }
+  ],
+  "cards": [
+    {
+      "id": "1578872316857_51",
+      "title": "\n\t\t\t\t\t\n\t\t\t\t\t\tEnter Title\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "description": "\n\t\t\t\t\t\n\t\t\t\t\t\tEnter description\n\t\t\t\t\t\n\t\t\t\t",
+      "columnId": "1"
+    }
+  ]
+}
